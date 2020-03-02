@@ -1,0 +1,18 @@
+{
+  "name": "m-saeb-block-chain-project-2-c37964a",
+  "version": "1.0.0",
+  "description": "- Your ERC-721 Token Name = \"SQIMM\" - Your ERC-721 Token Symbol = \"SQM\" - “Token Address” on the Rinkeby Network = couldn't get it to work :(",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.5.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
