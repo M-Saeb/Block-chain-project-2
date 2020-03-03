@@ -1,8 +1,8 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "I removed it for now";
+const infuraKey = "empty";
 //
 // const fs = require('fs');
-const mnemonic = "I removed it for now";
+const mnemonic = "empty";
 
 module.exports = {
 
